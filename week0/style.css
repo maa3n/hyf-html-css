@@ -1,0 +1,164 @@
+
+
+
+/*Navigation bar*/
+#navbar {
+   padding-left: 5px;
+   padding-top: 10px; 
+}
+
+.info1 {
+   color: #f39c12;
+}
+
+.info {
+    display: inline-block;
+    padding-left: 15px;
+}
+
+/* Main Body */
+
+#mainbody {
+ width: 79%;
+  float: left; 
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+  color: #2c3e50;
+  border: solid 3px white;
+  background-color: #bdc3c7;
+  margin-top: 50px;
+  margin-bottom: 120px;
+}
+
+h2 { 
+  text-align: center;
+  font-family: cursive;
+  color: #d35400;
+  padding-top: 40px;
+}
+
+.top {
+  margin-top: 30px ;
+  margin-left: 20px ;
+  font-size: 17px;
+  margin-left: 30px;
+  font-family: comic sans ms; 
+  line-height : 2em;
+}
+
+.top2 {
+  margin-top: 30px ;
+  margin-left: 20px;
+  margin-right: 30px;
+  font-size: 17px;
+  font-family: comic sans ms;
+  line-height : 2em;
+}
+
+th {
+    padding-top: 30px;
+    padding-left: 90px;
+}
+
+td {
+    padding-top: 10px;
+    padding-left: 90px;
+}
+
+p.last {
+  padding-bottom:100px;
+}
+/* Side bar */
+
+#sidebar {
+  border: solid 3px #bdc3c7;
+  background-color: #f39c12;
+  float: right;
+  width: 20%;
+  padding-bottom: 200px;
+  margin-top: 0px; 
+}
+
+h3 {
+  text-align: center;
+  font-family: cursive;
+  color: #2c3e50;
+  padding-top: 50px;
+}
+
+.infobar2 {
+  padding-top: 20px; 
+}
+
+/* the links*/
+a:link {
+  color: #2980b9;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  background-color: red;
+}
+a:active {
+  background-color: purple;
+}
+a:focus {
+  background-color: #7f8fa6;
+}
+a {
+  text-decoration: none;
+}
+li.info {
+  text-decoration: underline;
+}
+/* Footer */
+#footer {
+ border: solid 3px #bdc3c7;
+ background-color: #f39c12;
+ height: 200px;
+ clear: both;
+}
+#footerphoto1{
+ position: absolute; 
+ left: 50px;
+  z-index: 1;
+}
+
+#footerphoto2{
+ position: absolute; 
+ left: 250px;
+  z-index: 2;
+}
+
+.footercontact {
+  padding-left:700px;
+  padding-top: 60px;
+  font-family: cursive; 
+}
+
+/* foooooooooooter End*/
+
+#phototop1 {
+ position: absolute; 
+ top: 50px ;
+right: 60%;
+ width: 500px; 
+}
+
+#phototop2 {
+position: absolute; 
+top: 680px ;
+right: 1%;
+width: 250px;
+}
+
+#phototop3 {
+position: absolute; 
+top: 120px ;
+right: 5%;
+width: 200px;
+}
