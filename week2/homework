@@ -1,0 +1,13 @@
+
+
+1-    echo > .File
+
+      ls -a
+
+2-    mkdir -p /c/Users/unmesh/these/folders/are/just/for/fun
+
+3-    18 fun 
+
+4-    echo -n "test" > fun
+      echo "another test" >> fun
+      cat fun
