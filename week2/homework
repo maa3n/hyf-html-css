@@ -1,6 +1,6 @@
 
 
-1-    echo > .File
+1-    touch  .file
 
       ls -a
 
