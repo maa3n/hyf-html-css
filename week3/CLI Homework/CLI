@@ -1,0 +1,19 @@
+
+
+      1- mkdir week3
+         cd week3
+         touch blank
+       -----------
+       2- echo -e "Hallo\nHallo\nHallo\nHallo\nHallo\n" > greeting.txt
+          tee <greeting.txt 1.txt 2.txt 3.txt 4.txt 5.txt
+       -----------
+       3- echo "cat" > pets.txt
+          echo "dog" >> pets.txt
+          echo "hamster >> pets.txt
+       -----------
+       4- echo "cat" > commands.txt
+          echo "ls" >> commands.txt
+          echo "pwd" >> commands.txt
+       ------------
+       5- sort -u pets.txt commands.txt > lovlycommands.txt
+
